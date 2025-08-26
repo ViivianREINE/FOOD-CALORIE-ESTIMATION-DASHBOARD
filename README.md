@@ -10,7 +10,7 @@
 
 ---
 
-A warm, autumn-inspired project that combines **food image classification** with **calorie estimation**—like watching falling leaves, but for data and health.
+A warm, **food image classification** with **calorie estimation**—like watching falling leaves, but for data and health.
 
 </div>
 
